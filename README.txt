@@ -1,0 +1,1 @@
+A mini project aimed at learning basic queries, the use of CTE and cross join :)
